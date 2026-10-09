@@ -3,7 +3,7 @@
 
 ### FunnelConnect Android SDK
 
-For installation and integration, please visit this [link](https://docs.teavaro.com/android/)
+For installation and integration, please visit this [link](https://docs.teavaro.com/android-sdk/)
 
 **Bugs and issues tracker**  
 If you encountered a bug or have a feature request/suggestions feel free to [create an issue](https://github.com/Teavaro/FunnelConnect-Android-SDK-Tracker/issues/new).
